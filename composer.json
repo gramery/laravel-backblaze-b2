@@ -1,5 +1,5 @@
 {
-    "name": "gliterd/laravel-backblaze-b2",
+    "name": "gramery/laravel-backblaze-b2",
     "type": "library",
     "description": "Backblaze B2 Cloud Storage for Laravel 5",
     "keywords": ["flysystem", "filesystem", "api", "backblaze", "laravel", "storage", "disks"],
@@ -14,8 +14,8 @@
         }
     ],
     "require": {
-        "php": "^7.1.8",
-        "mhetreramesh/flysystem-backblaze": ">=1.6.0"
+        "php": "^8.1.6",
+        "mhetreramesh/flysystem-backblaze": "*"
     },
     "require-dev": {
         "phpunit/phpunit" : "~4.0||~5.0",
